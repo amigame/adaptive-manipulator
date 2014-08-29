@@ -1,5 +1,7 @@
 # A.M.
 
+I THINK, THEREFORE I AM
+
 A riddle-survival game inspired by Harlan Ellison's short story named "[I Have No Mouth, and I Must Scream](https://en.wikipedia.org/wiki/I_Have_No_Mouth,_and_I_Must_Scream)".
 
 This game has no relation with the [homonymous title](https://en.wikipedia.org/wiki/I_Have_No_Mouth,_and_I_Must_Scream_(video_game)) developed by The Dreamers Guild, co-designed by Ellison and published by Cyberdreams in 1995 - although we do love it dearly.
@@ -13,7 +15,7 @@ It's 109 years after the complete destruction of human civilization. The last wo
 
 Now with most of the human race gone AM salvages the last surviving people in elaborate prisons, tormenting them with almost impossible riddles and morality challenges. 
 
-You're next. 
+You are AM. 
 
 
 ## Usage
@@ -25,7 +27,7 @@ Note that you'll need to replace the default assets of the game. Assets will be 
 
 ## Credits
 
-Created by Makis Tracend ( [@tracend](http://github.com/tracend) )
+Initiated by Makis Tracend ( [@tracend](http://github.com/tracend) )
 
 Distributed through [Amigame](http://amigame.co)
 
